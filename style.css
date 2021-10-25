@@ -1,0 +1,11 @@
+#displayResults img{
+    width: 25vw;
+}
+
+#displayResults {
+    display: flex;
+}
+
+#displayResults div{
+    margin:3vw;
+}
