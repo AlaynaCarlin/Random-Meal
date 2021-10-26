@@ -1,8 +1,36 @@
+
+.header{
+    position: relative;
+    left:37vw;
+    right:40vw;
+    top:3vw;
+    font-size: 3.5vw;
+    font-family:Regina Script;
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    width: 35vw;
+}
+
+#instructions{
+    position: relative;
+    font-size: 1.5vw;
+    left: 40vw;
+    right:45vw;
+    top: 5vw;
+}
+
+#form{
+    position: relative;
+    left: 43vw;
+    top: 6vw;
+}
+
 #displayResults img{
     width: 25vw;
 }
 
 #displayResults {
+    position: relative;
+    top: 10vw;
     display: flex;
 }
 
